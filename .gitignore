@@ -1,0 +1,28 @@
+# Notes and documentation (kept locally only)
+*.md
+notatki/
+
+# Dependencies and build output
+node_modules/
+dist/
+build/
+.astro/
+.netlify/
+
+# Environment
+.env
+.env.*
+
+# Logs
+*.log
+npm-debug.log*
+
+# System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+.vscode/
+.claude/
